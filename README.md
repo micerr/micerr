@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+I'm Michele Cerra and this is my Portfolio!
+
+🔭 I’m currently working on Artificial Intelligence for Neuroimaging.
+
+---
+
+📫 How to reach me:
+- LinkedIn: https://www.linkedin.com/in/michele-cerra/
+
 <!--
 **micerr/micerr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
